@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "470685231051",
+    "firebase_url": "https://world-time-2190c.firebaseio.com",
+    "project_id": "world-time-2190c",
+    "storage_bucket": "world-time-2190c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470685231051:android:cd9590b2b3b7620dc0784e",
+        "android_client_info": {
+          "package_name": "com.example.world_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470685231051-9j8u9kl7h27la0qhpj6qqjo5jqteh3r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIKM3x0WTa3B5Z5IzwIb93sutJF5AcipU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470685231051-9j8u9kl7h27la0qhpj6qqjo5jqteh3r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
